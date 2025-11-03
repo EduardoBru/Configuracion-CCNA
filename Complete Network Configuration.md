@@ -1,5 +1,6 @@
 
-![[Complete Network Configuration.png]]
+<img width="1120" height="777" alt="image" src="https://github.com/user-attachments/assets/0ca72545-b40b-4796-b4bf-2b9b3c13ca82" />
+
 ## 🧩 **Configuración Inicial
 
 1. **Configure el nombre de host apropiado en cada router/switch.**
